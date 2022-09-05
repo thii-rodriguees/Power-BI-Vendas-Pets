@@ -4,6 +4,8 @@
 
 
 ## *INTRODUÇÃO AO POWER BI*
+
+- Meu primeiro curso de POWER BI foi na Plataforma da *ALURA*.
 - Neste projeto tive os primeiros contatos com a importação de Dados para a ferramenta POWER BI.
 - Também dei inicio aos estudos e aprimoramentos da parte de *ETL* sendo feita não mais no excel, mas sim 100% no POWER-QUERY.
 - Após todo o tratamento da base e entendimento do problema busquei dar visibilidade e flexibilidade para os dados mais importantes solicitados naquele momento.
