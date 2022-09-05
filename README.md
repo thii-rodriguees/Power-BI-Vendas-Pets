@@ -1,4 +1,4 @@
-# 1-Dashboard-em-Power-BI
+# 1º-Dashboard-em-Power-BI
 
 <img width="653" alt="image" src="https://user-images.githubusercontent.com/103518697/188472242-502acf2f-d9ba-422f-ba8e-119b81c78fa3.png">
 
