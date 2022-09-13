@@ -14,7 +14,7 @@ separados entre cães e gatos.
 *exemplos:* 
 - Bairro que mais faturou: *Itaquera.*
 - Bairro que menos faturou: *Vila Prudente.* 
-Sabendo isso, podemos tirar ideias de como aumentar o faturamento da vila prudente com base nos resultados das demais lojas, 
+- Sabendo isso, podemos tirar ideias de como aumentar o faturamento da vila prudente com base nos resultados das demais lojas, 
 ou até em com aumentar o lucro da loja do itaquera sabendo que a mesma tem um alto volume de vendas.
 
 visualizando por gênero
