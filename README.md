@@ -9,7 +9,7 @@
 separados entre cães e gatos.
 
 
-*CONCLUSAO* - Com o dahsboard pronto, conseguimos extrair com facilidade as principais caracteristicas do negocio, 
+*CONCLUSAO* - Com o dahsboard pronto, conseguimos extrair com facilidade as principais caracteristicas desse modelo de  negocio.
 
 *exemplos:* 
 - Bairro que mais faturou: *Itaquera.*
