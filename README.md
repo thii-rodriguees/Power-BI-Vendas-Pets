@@ -19,9 +19,12 @@ ou até em com aumentar o lucro da loja do itaquera sabendo que a mesma tem um a
 
 visualizando por gênero
 temos: 
+
 *Masc:*42,24%
+
 *Fem:*54,76%
-O publico alvo feminino é maior em TODAS as unidas, isso pode ser observado de modo separado ao clicar na unidade desejada.
+
+O publico alvo feminino é maior em TODAS as unidades, isso pode ser observado de modo separado ao clicar na unidade desejada.
 
 
 Histórico de Vendas.
